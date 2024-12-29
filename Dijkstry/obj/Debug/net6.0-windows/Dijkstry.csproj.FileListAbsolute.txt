@@ -1,0 +1,16 @@
+C:\Users\Dawid\source\repos\Dijkstry\bin\Debug\net6.0-windows\Dijkstry.exe
+C:\Users\Dawid\source\repos\Dijkstry\bin\Debug\net6.0-windows\Dijkstry.deps.json
+C:\Users\Dawid\source\repos\Dijkstry\bin\Debug\net6.0-windows\Dijkstry.runtimeconfig.json
+C:\Users\Dawid\source\repos\Dijkstry\bin\Debug\net6.0-windows\Dijkstry.dll
+C:\Users\Dawid\source\repos\Dijkstry\bin\Debug\net6.0-windows\Dijkstry.pdb
+C:\Users\Dawid\source\repos\Dijkstry\obj\Debug\net6.0-windows\Dijkstry.Form1.resources
+C:\Users\Dawid\source\repos\Dijkstry\obj\Debug\net6.0-windows\Dijkstry.csproj.GenerateResource.cache
+C:\Users\Dawid\source\repos\Dijkstry\obj\Debug\net6.0-windows\Dijkstry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\source\repos\Dijkstry\obj\Debug\net6.0-windows\Dijkstry.AssemblyInfoInputs.cache
+C:\Users\Dawid\source\repos\Dijkstry\obj\Debug\net6.0-windows\Dijkstry.AssemblyInfo.cs
+C:\Users\Dawid\source\repos\Dijkstry\obj\Debug\net6.0-windows\Dijkstry.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\Dijkstry\obj\Debug\net6.0-windows\Dijkstry.dll
+C:\Users\Dawid\source\repos\Dijkstry\obj\Debug\net6.0-windows\refint\Dijkstry.dll
+C:\Users\Dawid\source\repos\Dijkstry\obj\Debug\net6.0-windows\Dijkstry.pdb
+C:\Users\Dawid\source\repos\Dijkstry\obj\Debug\net6.0-windows\Dijkstry.genruntimeconfig.cache
+C:\Users\Dawid\source\repos\Dijkstry\obj\Debug\net6.0-windows\ref\Dijkstry.dll
