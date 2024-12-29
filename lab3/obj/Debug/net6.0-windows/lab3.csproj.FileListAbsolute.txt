@@ -1,0 +1,65 @@
+D:\174926\lab3\bin\Debug\net6.0-windows\lab3.exe
+D:\174926\lab3\bin\Debug\net6.0-windows\lab3.deps.json
+D:\174926\lab3\bin\Debug\net6.0-windows\lab3.runtimeconfig.json
+D:\174926\lab3\bin\Debug\net6.0-windows\lab3.dll
+D:\174926\lab3\bin\Debug\net6.0-windows\lab3.pdb
+D:\174926\lab3\obj\Debug\net6.0-windows\lab3.csproj.AssemblyReference.cache
+D:\174926\lab3\obj\Debug\net6.0-windows\lab3.Form1.resources
+D:\174926\lab3\obj\Debug\net6.0-windows\lab3.csproj.GenerateResource.cache
+D:\174926\lab3\obj\Debug\net6.0-windows\lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\174926\lab3\obj\Debug\net6.0-windows\lab3.AssemblyInfoInputs.cache
+D:\174926\lab3\obj\Debug\net6.0-windows\lab3.AssemblyInfo.cs
+D:\174926\lab3\obj\Debug\net6.0-windows\lab3.csproj.CoreCompileInputs.cache
+D:\174926\lab3\obj\Debug\net6.0-windows\lab3.dll
+D:\174926\lab3\obj\Debug\net6.0-windows\refint\lab3.dll
+D:\174926\lab3\obj\Debug\net6.0-windows\lab3.pdb
+D:\174926\lab3\obj\Debug\net6.0-windows\lab3.genruntimeconfig.cache
+D:\174926\lab3\obj\Debug\net6.0-windows\ref\lab3.dll
+C:\Users\Dawid\source\repos\lab3\bin\Debug\net6.0-windows\lab3.exe
+C:\Users\Dawid\source\repos\lab3\bin\Debug\net6.0-windows\lab3.deps.json
+C:\Users\Dawid\source\repos\lab3\bin\Debug\net6.0-windows\lab3.runtimeconfig.json
+C:\Users\Dawid\source\repos\lab3\bin\Debug\net6.0-windows\lab3.dll
+C:\Users\Dawid\source\repos\lab3\bin\Debug\net6.0-windows\lab3.pdb
+C:\Users\Dawid\source\repos\lab3\obj\Debug\net6.0-windows\lab3.Form1.resources
+C:\Users\Dawid\source\repos\lab3\obj\Debug\net6.0-windows\lab3.csproj.GenerateResource.cache
+C:\Users\Dawid\source\repos\lab3\obj\Debug\net6.0-windows\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\source\repos\lab3\obj\Debug\net6.0-windows\lab3.AssemblyInfoInputs.cache
+C:\Users\Dawid\source\repos\lab3\obj\Debug\net6.0-windows\lab3.AssemblyInfo.cs
+C:\Users\Dawid\source\repos\lab3\obj\Debug\net6.0-windows\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\lab3\obj\Debug\net6.0-windows\lab3.dll
+C:\Users\Dawid\source\repos\lab3\obj\Debug\net6.0-windows\refint\lab3.dll
+C:\Users\Dawid\source\repos\lab3\obj\Debug\net6.0-windows\lab3.pdb
+C:\Users\Dawid\source\repos\lab3\obj\Debug\net6.0-windows\lab3.genruntimeconfig.cache
+C:\Users\Dawid\source\repos\lab3\obj\Debug\net6.0-windows\ref\lab3.dll
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\lab3\bin\Debug\net6.0-windows\lab3.exe
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\lab3\bin\Debug\net6.0-windows\lab3.deps.json
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\lab3\bin\Debug\net6.0-windows\lab3.runtimeconfig.json
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\lab3\bin\Debug\net6.0-windows\lab3.dll
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\lab3\bin\Debug\net6.0-windows\lab3.pdb
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\lab3.Form1.resources
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\lab3.csproj.GenerateResource.cache
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\lab3.AssemblyInfoInputs.cache
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\lab3.AssemblyInfo.cs
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\lab3.dll
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\refint\lab3.dll
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\lab3.pdb
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\lab3.genruntimeconfig.cache
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\ref\lab3.dll
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\lab3\bin\Debug\net6.0-windows\lab3.exe
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\lab3\bin\Debug\net6.0-windows\lab3.deps.json
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\lab3\bin\Debug\net6.0-windows\lab3.runtimeconfig.json
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\lab3\bin\Debug\net6.0-windows\lab3.dll
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\lab3\bin\Debug\net6.0-windows\lab3.pdb
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\lab3.Form1.resources
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\lab3.csproj.GenerateResource.cache
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\lab3.AssemblyInfoInputs.cache
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\lab3.AssemblyInfo.cs
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\lab3.dll
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\refint\lab3.dll
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\lab3.pdb
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\lab3.genruntimeconfig.cache
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\lab3\obj\Debug\net6.0-windows\ref\lab3.dll
