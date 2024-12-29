@@ -1,0 +1,48 @@
+C:\Users\Dawid\source\repos\pracaDomLab2\pracaDomLab2\bin\Debug\net6.0-windows\pracaDomLab2.exe
+C:\Users\Dawid\source\repos\pracaDomLab2\pracaDomLab2\bin\Debug\net6.0-windows\pracaDomLab2.deps.json
+C:\Users\Dawid\source\repos\pracaDomLab2\pracaDomLab2\bin\Debug\net6.0-windows\pracaDomLab2.runtimeconfig.json
+C:\Users\Dawid\source\repos\pracaDomLab2\pracaDomLab2\bin\Debug\net6.0-windows\pracaDomLab2.dll
+C:\Users\Dawid\source\repos\pracaDomLab2\pracaDomLab2\bin\Debug\net6.0-windows\pracaDomLab2.pdb
+C:\Users\Dawid\source\repos\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.Form1.resources
+C:\Users\Dawid\source\repos\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.csproj.GenerateResource.cache
+C:\Users\Dawid\source\repos\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\source\repos\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.AssemblyInfoInputs.cache
+C:\Users\Dawid\source\repos\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.AssemblyInfo.cs
+C:\Users\Dawid\source\repos\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\source\repos\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.dll
+C:\Users\Dawid\source\repos\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\refint\pracaDomLab2.dll
+C:\Users\Dawid\source\repos\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.pdb
+C:\Users\Dawid\source\repos\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.genruntimeconfig.cache
+C:\Users\Dawid\source\repos\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\ref\pracaDomLab2.dll
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\bin\Debug\net6.0-windows\pracaDomLab2.exe
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\bin\Debug\net6.0-windows\pracaDomLab2.deps.json
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\bin\Debug\net6.0-windows\pracaDomLab2.runtimeconfig.json
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\bin\Debug\net6.0-windows\pracaDomLab2.dll
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\bin\Debug\net6.0-windows\pracaDomLab2.pdb
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.Form1.resources
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.csproj.GenerateResource.cache
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.AssemblyInfoInputs.cache
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.AssemblyInfo.cs
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.dll
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\refint\pracaDomLab2.dll
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.pdb
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.genruntimeconfig.cache
+C:\Users\Dawid\Downloads\algorytmyNaBrudno-main (2)\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\ref\pracaDomLab2.dll
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\bin\Debug\net6.0-windows\pracaDomLab2.exe
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\bin\Debug\net6.0-windows\pracaDomLab2.deps.json
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\bin\Debug\net6.0-windows\pracaDomLab2.runtimeconfig.json
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\bin\Debug\net6.0-windows\pracaDomLab2.dll
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\bin\Debug\net6.0-windows\pracaDomLab2.pdb
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.Form1.resources
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.csproj.GenerateResource.cache
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.AssemblyInfoInputs.cache
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.AssemblyInfo.cs
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.csproj.CoreCompileInputs.cache
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.dll
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\refint\pracaDomLab2.dll
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.pdb
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\pracaDomLab2.genruntimeconfig.cache
+C:\Users\Dawid\Desktop\algorytmyNaBrudno-main\algorytmyNaBrudno-main\pracaDomLab2\pracaDomLab2\obj\Debug\net6.0-windows\ref\pracaDomLab2.dll
