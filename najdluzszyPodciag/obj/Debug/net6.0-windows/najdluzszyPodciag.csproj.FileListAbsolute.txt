@@ -1,0 +1,17 @@
+D:\174926\najdluzszyPodciag\bin\Debug\net6.0-windows\najdluzszyPodciag.exe
+D:\174926\najdluzszyPodciag\bin\Debug\net6.0-windows\najdluzszyPodciag.deps.json
+D:\174926\najdluzszyPodciag\bin\Debug\net6.0-windows\najdluzszyPodciag.runtimeconfig.json
+D:\174926\najdluzszyPodciag\bin\Debug\net6.0-windows\najdluzszyPodciag.dll
+D:\174926\najdluzszyPodciag\bin\Debug\net6.0-windows\najdluzszyPodciag.pdb
+D:\174926\najdluzszyPodciag\obj\Debug\net6.0-windows\najdluzszyPodciag.csproj.AssemblyReference.cache
+D:\174926\najdluzszyPodciag\obj\Debug\net6.0-windows\najdluzszyPodciag.Form1.resources
+D:\174926\najdluzszyPodciag\obj\Debug\net6.0-windows\najdluzszyPodciag.csproj.GenerateResource.cache
+D:\174926\najdluzszyPodciag\obj\Debug\net6.0-windows\najdluzszyPodciag.GeneratedMSBuildEditorConfig.editorconfig
+D:\174926\najdluzszyPodciag\obj\Debug\net6.0-windows\najdluzszyPodciag.AssemblyInfoInputs.cache
+D:\174926\najdluzszyPodciag\obj\Debug\net6.0-windows\najdluzszyPodciag.AssemblyInfo.cs
+D:\174926\najdluzszyPodciag\obj\Debug\net6.0-windows\najdluzszyPodciag.csproj.CoreCompileInputs.cache
+D:\174926\najdluzszyPodciag\obj\Debug\net6.0-windows\najdluzszyPodciag.dll
+D:\174926\najdluzszyPodciag\obj\Debug\net6.0-windows\refint\najdluzszyPodciag.dll
+D:\174926\najdluzszyPodciag\obj\Debug\net6.0-windows\najdluzszyPodciag.pdb
+D:\174926\najdluzszyPodciag\obj\Debug\net6.0-windows\najdluzszyPodciag.genruntimeconfig.cache
+D:\174926\najdluzszyPodciag\obj\Debug\net6.0-windows\ref\najdluzszyPodciag.dll
